@@ -1,0 +1,12 @@
+Tipo: Carro, Marca: aaaaaaaaaaaaaa, Modelo: Jetta, Ano de Fabricação: 2022, Preço: 120000.0, Número de Portas: 4
+Tipo: Motocicleta, Marca: Kawazaki, Modelo: Ninja, Ano de Fabricação: 2021, Preço: 75000.0, Cilindradas: 1000
+Tipo: Carro, Marca: aaaaaaaaaaaaaa, Modelo: Jetta, Ano de Fabricação: 2022, Preço: 120000.0, Número de Portas: 4
+Tipo: Motocicleta, Marca: Kawazaki, Modelo: Ninja, Ano de Fabricação: 2021, Preço: 75000.0, Cilindradas: 1000
+Tipo: Carro, Marca: aaaaaaaaaaaaaa, Modelo: Jetta, Ano de Fabricação: 2022, Preço: 120000.0, Número de Portas: 4
+Tipo: Motocicleta, Marca: Kawazaki, Modelo: Ninja, Ano de Fabricação: 2021, Preço: 75000.0, Cilindradas: 1000
+Tipo: Carro, Marca: aaaaaaaaaaaaaa, Modelo: Jetta, Ano de Fabricação: 2022, Preço: 120000.0, Número de Portas: 4
+Tipo: Motocicleta, Marca: Kawazaki, Modelo: Ninja, Ano de Fabricação: 2021, Preço: 75000.0, Cilindradas: 1000
+Tipo: Carro, Marca: aaaaaaaaaaaaaa, Modelo: Jetta, Ano de Fabricação: 2022, Preço: 120000.0, Número de Portas: 4
+Tipo: Motocicleta, Marca: Kawazaki, Modelo: Ninja, Ano de Fabricação: 2021, Preço: 75000.0, Cilindradas: 1000
+Tipo: Carro, Marca: aaaaaaaaaaaaaa, Modelo: Jetta, Ano de Fabricação: 2022, Preço: 120000.0, Número de Portas: 4
+Tipo: Motocicleta, Marca: Kawazaki, Modelo: Ninja, Ano de Fabricação: 2021, Preço: 75000.0, Cilindradas: 1000
